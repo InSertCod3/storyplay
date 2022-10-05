@@ -84,4 +84,4 @@ app.get('/*', (req, res) => {
 	// used for 404 if no other get functions are triggered
 })
 
-app.listen(3000, () => console.log('server started'));
+// app.listen(3000, () => console.log('server started'));
